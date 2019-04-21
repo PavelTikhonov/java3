@@ -2,7 +2,7 @@ package lesson2;
 
 import java.sql.*;
 
-public class Main {
+public class MainSql {
     private static Connection connection;
     private static Statement stmt;
 
